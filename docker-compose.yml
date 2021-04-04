@@ -1,0 +1,8 @@
+version: '2.1'
+services:
+  nginx:
+    restart: always
+    build: ./nginx
+    privileged: true
+    ports:
+        - '80:80'
