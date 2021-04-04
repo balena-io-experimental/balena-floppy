@@ -1,5 +1,5 @@
 # balena-floppy
-The floppy demo from [IoT Happy Hour #47](https://www.youtube.com/watch?v=GLzRwLen6Hc)
+The floppy disk demo from [IoT Happy Hour #47](https://www.youtube.com/watch?v=GLzRwLen6Hc)
 
 ## Overview
 
